@@ -2,25 +2,25 @@
     "Card": [
       {
         "id":23,
-        "name?":"SEFA",
+        "name":"SEFA",
         "title":"SOFTWARE ENGINEER",
         "workPlace":"RENAULT",
         "email?":"XX@XXX.COM",
         "address?":"BURSA" ,
         "classInformation?":"4",
         "linkedinUrl?":"SSSS",
-        "photoUrl?":"https://miro.medium.com/fit/c/176/176/0*qccIZI-NAOGY58Sk"
+        "photoUrl":"https://miro.medium.com/fit/c/176/176/0*qccIZI-NAOGY58Sk"
       },
  {
         "id":23,
-        "name?":"enes",
+        "name":"enes",
         "title":"SOFTWARE dev",
         "workPlace":"getir",
         "email?":"XX@XXX.COM",
         "address?":"BURSA" ,
         "classInformation?":"4",
         "linkedinUrl?":"SSSS",
-        "photoUrl?":"https://avatars.githubusercontent.com/u/56232686?v=4"
+        "photoUrl":"https://avatars.githubusercontent.com/u/56232686?v=4"
       }
     ]
     
