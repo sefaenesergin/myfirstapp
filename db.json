@@ -2,15 +2,26 @@
     "Card": [
       {
         "id":23,
-        "name?":"string",
-        "title":"string",
-        "workPlace":"string",
-        "email?":"string",
-        "address?":"adsa" ,
-        "classInformation?":"string",
-        "linkedinUrl?":"string",
-        "photoUrl?":"string"
-      }
+        "name?":"SEFA",
+        "title":"SOFTWARE ENGINEER",
+        "workPlace":"RENAULT",
+        "email?":"XX@XXX.COM",
+        "address?":"BURSA" ,
+        "classInformation?":"4",
+        "linkedinUrl?":"SSSS",
+        "photoUrl?":"https://avatars.githubusercontent.com/u/56232686?v=4"
+      },
+            {
+        "id":24,
+        "name?":"CAN",
+        "title":"DOCTOR",
+        "workPlace":"HOSPITAL",
+        "email?":"XX",
+        "address?":"XX" ,
+        "classInformation?":"XX",
+        "linkedinUrl?":"X",
+        "photoUrl?":"X"
+      },
     ]
     
   }
