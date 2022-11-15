@@ -1,0 +1,16 @@
+{
+    "Card": [
+      {
+        "id":23,
+        "name?":"string",
+        "title":"string",
+        "workPlace":"string",
+        "email?":"string",
+        "address?":"adsa" ,
+        "classInformation?":"string",
+        "linkedinUrl?":"string",
+        "photoUrl?":"string"
+      }
+    ]
+    
+  }
